@@ -1,0 +1,122 @@
+msr,uin,niu,mop
+length,kilometer,kilometer,1
+length,kilometer,meter,1000
+length,kilometer,centimeter,100000
+length,kilometer,millimeter,1000000
+length,kilometer,micrometer,1000000000
+length,kilometer,nanometer,1000000000000
+length,kilometer,mile,0.621371192237334
+length,kilometer,yard,1093.61
+length,kilometer,foot,3280.84
+length,kilometer,inch,39370.1
+length,kilometer,"nautical mile",0.5399568034557235
+length,meter,kilometer,0.001
+length,meter,meter,1
+length,meter,centimeter,100
+length,meter,millimeter,1000
+length,meter,micrometer,1000000
+length,meter,nanometer,1000000000
+length,meter,mile,0.0006213711922373339
+length,meter,yard,1.09361
+length,meter,foot,3.28084
+length,meter,inch,39.3701
+length,meter,"nautical mile",0.0005399568034557236
+length,centimeter,kilometer,1E-05
+length,centimeter,meter,0.01
+length,centimeter,centimeter,1
+length,centimeter,millimeter,10
+length,centimeter,micrometer,10000
+length,centimeter,nanometer,10000000
+length,centimeter,mile,6.21371192237334E-06
+length,centimeter,yard,0.010936132983377079
+length,centimeter,foot,0.03280839895013123
+length,centimeter,inch,0.39370078740157477
+length,centimeter,"nautical mile",5.399568034557236E-06
+length,millimeter,kilometer,1E-06
+length,millimeter,meter,0.001
+length,millimeter,centimeter,0.1
+length,millimeter,millimeter,1
+length,millimeter,micrometer,1000
+length,millimeter,nanometer,1000000
+length,millimeter,mile,6.21371192237334E-07
+length,millimeter,yard,0.0010936132983377078
+length,millimeter,foot,0.0032808398950131233
+length,millimeter,inch,0.03937007874015748
+length,millimeter,"nautical mile",5.399568034557235E-07
+length,micrometer,kilometer,1E-09
+length,micrometer,meter,1E-06
+length,micrometer,centimeter,0.0001
+length,micrometer,millimeter,0.001
+length,micrometer,micrometer,1
+length,micrometer,nanometer,1000
+length,micrometer,mile,6.21371192237334E-10
+length,micrometer,yard,1.0936132983377078E-06
+length,micrometer,foot,3.2808398950131235E-06
+length,micrometer,inch,3.937007874015748E-05
+length,micrometer,"nautical mile",5.399568034557236E-10
+length,nanometer,kilometer,1E-12
+length,nanometer,meter,1E-09
+length,nanometer,centimeter,1E-07
+length,nanometer,millimeter,1E-06
+length,nanometer,micrometer,0.001
+length,nanometer,nanometer,1
+length,nanometer,mile,6.213711922373339E-13
+length,nanometer,yard,1.0936132983377077E-09
+length,nanometer,foot,3.2808398950131233E-09
+length,nanometer,inch,3.937007874015748E-08
+length,nanometer,"nautical mile",5.399568034557235E-13
+length,mile,kilometer,1.609344
+length,mile,meter,1609.344
+length,mile,centimeter,160934.4
+length,mile,millimeter,1609344
+length,mile,micrometer,1609344000
+length,mile,nanometer,1609344000000
+length,mile,mile,1
+length,mile,yard,1760
+length,mile,foot,5280
+length,mile,inch,63360
+length,mile,"nautical mile",0.8688097306689835
+length,yard,kilometer,0.000914400249448388
+length,yard,meter,0.914400249448388
+length,yard,centimeter,91.44
+length,yard,millimeter,914.4
+length,yard,micrometer,914400
+length,yard,nanometer,914400000
+length,yard,mile,0.0005681818181818182
+length,yard,yard,1
+length,yard,foot,3
+length,yard,inch,36
+length,yard,"nautical mile",0.0004937364592776043
+length,foot,kilometer,0.0003047999902464003
+length,foot,meter,0.3047999902464003
+length,foot,centimeter,30.48
+length,foot,millimeter,304.8
+length,foot,micrometer,304800
+length,foot,nanometer,304800000
+length,foot,mile,0.0001893939393939394
+length,foot,yard,0.3333333333333333
+length,foot,foot,1
+length,foot,inch,12
+length,foot,"nautical mile",0.00016457884684539383
+length,inch,kilometer,2.54E-05
+length,inch,meter,0.0254
+length,inch,centimeter,2.54
+length,inch,millimeter,25.4
+length,inch,micrometer,25400
+length,inch,nanometer,25400000
+length,inch,mile,1.5782828282828283E-05
+length,inch,yard,0.027777777777777776
+length,inch,foot,0.08333333333333333
+length,inch,inch,1
+length,inch,"nautical mile",1.3714902775191375E-05
+length,"nautical mile",kilometer,1.852
+length,"nautical mile",meter,1852
+length,"nautical mile",centimeter,185200
+length,"nautical mile",millimeter,1852000
+length,"nautical mile",micrometer,1852000000
+length,"nautical mile",nanometer,1852000000000
+length,"nautical mile",mile,1.15078
+length,"nautical mile",yard,2025.37
+length,"nautical mile",foot,6076.12
+length,"nautical mile",inch,72913.4
+length,"nautical mile","nautical mile",1
